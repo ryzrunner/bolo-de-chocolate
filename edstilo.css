@@ -1,0 +1,22 @@
+{style} 
+h1 { font-family:'Luckiest Guy';
+    text-align: center;
+font-size: 22px;
+color: rgb(71, 48, 3);}
+h2 { font-family: 'Luckiest Guy';
+text-align:center;
+font-size: 18px;
+text-decoration: underline;
+color: rgb(71, 48, 3);}
+h3 {font-size: 18px;
+font-family: 'Luckiest Guy'a;
+color:rgb(71, 48, 3);
+font-weight: bold;}
+p {line-height: 20px;
+font-size: 14px;
+font-family: verdana;
+color: brown;
+font-weight:bold;}  
+body {background-color:whitesmoke;} 
+span {color: orangered;}
+{style}
